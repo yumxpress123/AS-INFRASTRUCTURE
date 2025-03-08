@@ -45,7 +45,7 @@ const ImageSlider = () => {
            <Typography variant="h3" sx={{ fontWeight: "bold", fontSize: { xs: "18px", sm: "36px", md: "34px" } }}>
          <span style={{ color: "red" }}>AS</span> Infrastructure
         </Typography>
-        <Typography variant="h1" sx={{ fontWeight: "bold",paddingLeft:{sm:"40px"},  color:"black", border:"white", fontSize: { xs: "11px", sm: "36px", md: "20px" } }}>
+        <Typography variant="h1" sx={{ fontWeight: "bold",paddingLeft:{sm:"40px"},backdropFilter: "blur(5px)",  color:"black", border:"white", fontSize: { xs: "11px", sm: "36px", md: "20px" } }}>
      
     
         We invest in cutting-edge infrastructure to deliver seamless performance.
