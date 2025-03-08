@@ -56,7 +56,7 @@ const InputSide = () => {
     e.preventDefault();
 
     // Construct the email body
-    const mailtoLink = `mailto:ASInfrastructure@construction.com?subject=Inquiry from ${name}&body=Name: ${name}%0D%0AEmail: ${email}%0D%0APhone: ${phone}%0D%0AMessage: ${message}`;
+    const mailtoLink = `mailto:asinfrastructureindia@gmail.com?subject=Inquiry from ${name}&body=Name: ${name}%0D%0AEmail: ${email}%0D%0APhone: ${phone}%0D%0AMessage: ${message}`;
 
     // Open default email client
     window.location.href = mailtoLink;
@@ -74,7 +74,7 @@ const InputSide = () => {
       </InputWrapper>
       <InputWrapper>
         <p>Phone</p>
-        <Input type="tel" required placeholder="+919425009445" value={phone} onChange={(e) => setPhone(e.target.value)} />
+        <Input type="tel" required placeholder="+918959114372" value={phone} onChange={(e) => setPhone(e.target.value)} />
       </InputWrapper>
       <InputWrapper>
         <p>Message</p>
