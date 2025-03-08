@@ -26,7 +26,7 @@ const Footer = () => {
       {/* Middle Section - Logo */}
       <div className="flex justify-center my-4">
         <img
-          src="https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/9153a42e5668632086f7fac15acc65a5/detailed" // Replace with actual logo path
+          src="https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741359609/kipwuef2xq7lqt3vuol5.png" // Replace with actual logo path
           alt="AS Infrastructure"
           className=""
           width={100}

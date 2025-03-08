@@ -59,7 +59,7 @@ function Navbar(props) {
       }}
     >
       <img
-        src="https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/9153a42e5668632086f7fac15acc65a5/detailed"
+        src="https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741359609/kipwuef2xq7lqt3vuol5.png"
         alt="Logo"
         style={{
           width: "50%",
@@ -138,10 +138,10 @@ function Navbar(props) {
   }}
 >
   <img
-    src="https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/9153a42e5668632086f7fac15acc65a5/detailed"
+    src="https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741359609/kipwuef2xq7lqt3vuol5.png"
     alt="Logo"
     style={{
-      width: "100px", // Default width
+      width: "80px", // Default width
       height: "auto",
       objectFit: "cover",
     }}

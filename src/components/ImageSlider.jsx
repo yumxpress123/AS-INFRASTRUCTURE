@@ -6,11 +6,11 @@ import { Box, Typography } from "@mui/material";
 
 // Sample images (Replace with actual images)
 const images = [
-  "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/acde6957f3b2c4149d59feb936f1c649/detailed",
-  "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/1ce6953626fdb19d4576983e748fff7f/detailed",
-  "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/31d93bee9c0fe71a014834db61ac5b1b/detailed",
-  "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/c6b2f84d9110d528839c2d8eeff2acc8/detailed",
-  "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/8c072d6588bceb3e0b3e46a5b2fc2f02/detailed",
+  "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741423253/homepage/zu6qzltih9ahcmf1dgv8.avif",
+  "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741422949/homepage/niqt3vbbnos1oclo8fk3.jpg",
+  "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741422947/homepage/uynsvkdoqrqunsrpplvn.jpg",
+  "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741422947/homepage/l71hzqydwvwgdar5qkbt.webp",
+  "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741422947/homepage/gywlbf2kn1umqlmlrkac.webp",
 ];
 
 const ImageSlider = () => {

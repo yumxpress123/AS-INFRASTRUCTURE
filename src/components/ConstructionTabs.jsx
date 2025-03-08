@@ -6,25 +6,25 @@ const projectData = {
     title: "We have a vision for the future of construction.",
     description:
       "We believe in creating architectural landmarks that stand the test of time. Our expertise in commercial, residential, and mixed-use developments allows us to seamlessly blend aesthetics, functionality, and sustainability into every project. Whether it's high-rise structures, corporate offices, or smart homes, we prioritize quality craftsmanship, energy efficiency, and cutting-edge design. Backed by a team of skilled professionals and advanced construction techniques, we deliver projects that redefine modern living and working spaces.",
-    image: "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/5fd83b3d99a64f3225fe65d304854e64/detailed", // Change to actual image path
+    image: "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741424141/4images/tisfgmonbuhbe31o9m3z.jpg", // Change to actual image path
   },
   civil: {
     title: "Innovating Civil Infrastructure.",
     description:
       "Infrastructure is the backbone of progress, and our team is dedicated to designing and constructing world-class civil infrastructure that enhances connectivity, sustainability, and safety. From highways, bridges, and tunnels to airports, rail networks, and urban planning, we ensure that every project adheres to global engineering standards and best practices. With a commitment to eco-friendly solutions and innovative technology, we contribute to the development of smarter, more resilient cities that serve communities for generations to come.",
-    image: "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/05172de634b1706292d4e5db01ff33ee/detailed", // Change to actual image path
+    image: "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741424141/4images/mh2csjwf5bqstoa5v3us.jpg", // Change to actual image path
   },
   industrial: {
     title: "Heavy Industrial Projects Redefined.",
     description:
       "We specialize in large-scale industrial construction that supports the world’s most demanding industries. Our expertise spans manufacturing plants, energy facilities, refineries, and heavy engineering projects, ensuring seamless integration of precision, safety, and efficiency. With a focus on advanced materials, automation, and industry-leading safety protocols, we deliver turnkey solutions that empower industries to maximize productivity, minimize downtime, and drive long-term growth.",
-    image: "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/6ec223166daab768ab22dd456010e212/detailed", // Change to actual image path
+    image: "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741424140/4images/sxlko65y8cerpxbtwfhz.webp", // Change to actual image path
   },
   special: {
     title: "Unique solutions for specialized needs.",
     description:
       "Every project is unique, and our special projects division is dedicated to delivering customized, high-impact solutions for niche construction needs. Whether it's heritage restorations, complex renovations, specialized research facilities, or one-of-a-kind architectural projects, we approach each challenge with precision, creativity, and an unwavering commitment to excellence. Our ability to adapt, innovate, and exceed expectations has made us a trusted partner for clients seeking unparalleled expertise in specialized construction.",
-    image: "https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/c4909fd5b0660cbbdb0c8d4659194d31/detailed", // Change to actual image path
+    image: "https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741424140/4images/y2ebjdrsodzdjtslrzfu.webp", // Change to actual image path
   },
 };
 

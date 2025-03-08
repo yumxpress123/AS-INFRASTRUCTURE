@@ -63,7 +63,7 @@ const CallToAction = () => {
         <Grid item xs={12} md={5} sx={{ display: "flex", justifyContent: "center" }}>
           <Box
             component="img"
-            src="https://res-console.cloudinary.com/dhbvmqhmg/media_explorer_thumbnails/579dee37e2cd75f50ed82b4920cff34f/detailed" // Replace with actual image path
+            src="https://res.cloudinary.com/dhbvmqhmg/image/upload/v1741425735/uok8gfpukgakbjxizxcj.avif" // Replace with actual image path
             alt="Decorative Pattern"
             sx={{
               width: "100%",
