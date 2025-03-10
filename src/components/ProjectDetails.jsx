@@ -32,14 +32,7 @@ const ProjectDetail = () => {
           <h3 className="font-semibold">Location</h3>
           <p>{project.location}</p>
         </div>
-        <div>
-          <h3 className="font-semibold">Sector</h3>
-          <p>{project.sector}</p>
-        </div>
-        <div>
-          <h3 className="font-semibold">Markets</h3>
-          <p>{project.markets}</p>
-        </div>
+    
       </div>
 
       {/* Description Section */}
@@ -47,7 +40,7 @@ const ProjectDetail = () => {
         <h3 className="text-2xl font-bold">Project Overview</h3>
         <p className="mt-4 text-gray-700">{project.description}</p>
 
-        <ul className="list-disc mt-4 pl-5 text-gray-700">
+        <ul className="list-disc mt-4 pl-5 text-gray-700 ">
           {project.highlights.map((point, index) => (
             <li key={index}>{point}</li>
           ))}
